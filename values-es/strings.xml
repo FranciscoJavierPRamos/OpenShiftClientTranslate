@@ -45,7 +45,7 @@
 
     <string name="last_update_test_preferences">Registro de la última actualización</string>
 
-    <string name="public_key_license" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxFhDlxb3V59bM4Lu6mOQu63aWs6USYmJ/WFPVIVLy5a60nveteauCDihI0Z4+yJ+aXKPtjw/Q26wfg4Tio4vfSGMzp+babfFCKaro8aEJ/7LjiduBVCLjOf10BcZhyjlZnTy9MGzdyHPChthRl0J+/VD6EsXtVInR/19eZFPtIWMkq5mWo9oFWHTGOEAjsSL48Hv74uenV/24lOPx2glgOlqzoSj9783A9k7o8XtvUG7WuaQbLFBtjaq7iaDg5vaiu0qzGbt7qPgUQ9Bnk84+hlaeaWTDK/vNZ6zQ4dgPYAbHfgxXqPbvHTy94zIjtEX8+RSJCFX/nS4dORe0vl2hQIDAQAB</string>
+  
     <string name="lb_RememberAccount">Recordar cuenta</string>
     <string name="lb_Login">Iniciar sesión</string>
     <string name="lb_Suffix">Sufijo</string>
