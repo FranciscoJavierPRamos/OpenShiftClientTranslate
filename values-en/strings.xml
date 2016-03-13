@@ -14,8 +14,8 @@
     <string name="lb_Accept">Accept</string>
     <string name="lb_AccessDen">Access denied</string>
     <string name="lb_Account">Account</string>
-    <string name="lb_AccountDesc">Displays information and make changes to your account OpenShift</string>
-    <string name="lb_ActionsFor">Acctions for</string>
+    <string name="lb_AccountDesc">Displays informations and make changes to your OpenShift account</string>
+    <string name="lb_ActionsFor">Actions for</string>
     <string name="lb_ActionsForThisAuth">Actions to this authorization</string>
     <string name="lb_Add">Add</string>
     <string name="lb_AddNotes">Add notes to Evernote</string>
@@ -34,18 +34,18 @@
     <string name="lb_AppHasDeleted">Application has been deleted, check...</string>
     <string name="lb_AppHasRestarted">The application has restarted, check...</string>
     <string name="lb_AppHasStarted">Application started, check...</string>
-    <string name="lb_AppHasStoped">The application has stopped, check ...</string>
-    <string name="lb_AppNotClonedYet">The application has not yet been cloned . Do you want to clone it now?</string>
+    <string name="lb_AppHasStoped">The application has stopped, check...</string>
+    <string name="lb_AppNotClonedYet">The application has not yet been cloned. Do you want to clone it now?</string>
     <string name="lb_AppNumber">Number of applications</string>
     <string name="lb_AppOf">Applications of</string>
     <string name="lb_AppScaled">Application scaled down correctly, check...</string>
-    <string name="lb_AppScaledUp">The application has been climbing up correctly, please check...</string>
+    <string name="lb_AppScaledUp">The application has been scaled up correctly, check...</string>
     <string name="lb_AppUpdated">The application is updated</string>
     <string name="lb_AppWillBeDeleted">will be removed from the server</string>
     <string name="lb_Apps">Applications</string>
     <string name="lb_Auth">Authorizations</string>
     <string name="lb_AuthDesc">Authorizations list</string>
-    <string name="lb_AuthFailed">Authentication error , enter the correct passphrase</string>
+    <string name="lb_AuthFailed">Authentication error, enter the correct passphrase</string>
     <string name="lb_AuthUser">Validating user</string>
     <string name="lb_AuthWillBeDeleted">The authorization will be removed</string>
     <string name="lb_AvailableCartridges">Available Cartridges</string>
@@ -70,7 +70,7 @@
     <string name="lb_Created"> created</string>
     <string name="lb_CreatingApp">Creating application...</string>
     <string name="lb_CreatingDoamain">Creating domain...</string>
-    <string name="lb_CreatingFile">Creating file</string>
+    <string name="lb_CreatingFile">Creating file...</string>
     <string name="lb_DataNotAva">Data not available</string>
     <string name="lb_Delete">Delete</string>
     <string name="lb_DeleteAliasMsj">will be removed from the application</string>
@@ -94,7 +94,7 @@
     <string name="lb_EnterAUserName">Enter a user name</string>
     <string name="lb_EnterAliasName">Enter an alias name</string>
     <string name="lb_EnterPassphrase">Enter passphrase</string>
-    <string name="lb_EnvironmentVariables">Environment Variables</string>
+    <string name="lb_EnvironmentVariables">Environment variables</string>
     <string name="lb_ErrorToAddAliases">Failed to add and alias</string>
     <string name="lb_ErrorToAddEnvVar">The environment variable is not added</string>
     <string name="lb_ErrorToAppStoped">Failed to stop the application</string>
@@ -104,7 +104,7 @@
     <string name="lb_ErrorToCreatePDF">Error creating PDF document</string>
     <string name="lb_ErrorToCreateShortcut">Error to create shortcut</string>
     <string name="lb_ErrorToDeleteAliases">Error deleting alias </string>
-    <string name="lb_ErrorToDeleteApp">Failed to restart the application</string>
+    <string name="lb_ErrorToDeleteApp">Failed to delete the application</string>
     <string name="lb_ErrorToGetVar">Error getting environment variables</string>
     <string name="lb_ErrorToLoadData">Error loading data</string>
     <string name="lb_ErrorToRestartApp">Failed to restart the application</string>
@@ -114,14 +114,14 @@
     <string name="lb_EvernoteNotInstalled">Evernote is not installed on your device</string>
     <string name="lb_Expiration">Expiration</string>
     <string name="lb_FailedToAddEnvVar">Failed to add the environment variable, please review.</string>
-    <string name="lb_FailedToAddKeyToOS">Failed to add the SSH key</string>
+    <string name="lb_FailedToAddKeyToOS">Failed to add SSH key</string>
     <string name="lb_FailedToCreateDomain">Error creating domain</string>
     <string name="lb_FailedToDeleteEnvVar">Failed to delete the environment variable, please review.</string>
     <string name="lb_FailedToDownloadRes">Error downloading resources</string>
     <string name="lb_FailedToGenUserCred">Failed to generate the user credential</string>
     <string name="lb_FailedToRemoveApp">Failed to remove the application</string>
     <string name="lb_FailedToScale">Failed to scale, the application probably is not scalable</string>
-    <string name="lb_FailedToScaleApp">Failed to climb, the application probably is not scalable</string>
+    <string name="lb_FailedToScaleApp">Failed to scale, the application probably is not scalable</string>
     <string name="lb_FailedToUpdateEnvVar">Failed to update the environment variable, please review.</string>
     <string name="lb_File">File</string>
     <string name="lb_FileCreated">File created successfully</string>
@@ -147,7 +147,7 @@
     <string name="lb_ImportSSHDesc">Imports SSH Key</string>
     <string name="lb_Info">Information</string>
     <string name="lb_InfoAddToEver">Information added to Evernote</string>
-    <string name="lb_InitAccountSettings">All domains created will be signed with the file SSH Key generated or imported. Therefore it is recommended to save either the files.</string>
+    <string name="lb_InitAccountSettings">All domains created will be signed with the generated or imported SSH key file. Therefore it is recommended to save the files.</string>
     <string name="lb_IsAlreadyUse">is already in use</string>
     <string name="lb_KeySuccess">The SSH key was added correctly to OpenShift</string>
     <string name="lb_LinkedinProfile">Linkedin contact</string>
@@ -156,7 +156,7 @@
     <string name="lb_LocalResources">Local Resources</string>
     <string name="lb_LocalResourcesDesc">Update OpenShift resources</string>
     <string name="lb_LogOut">Log out</string>
-    <string name="lb_LogOutApp">Signing off</string>
+    <string name="lb_LogOutApp">Signing out</string>
     <string name="lb_Login">Login</string>
     <string name="lb_MakeDonation">Make a donation</string>
     <string name="lb_MoreDomainsToCreate">The domain was not created, check if you have the ability to create more domains</string>
@@ -173,7 +173,7 @@
     <string name="lb_NoEnvVar">No environment variables</string>
     <string name="lb_NoPrivateKey">There is no private key, create again and try again.</string>
     <string name="lb_Note">Note</string>
-    <string name="lb_OSNotSupportSSH">OpenShift not support the SSH key defined</string>
+    <string name="lb_OSNotSupportSSH">OpenShift does not support the SSH key defined</string>
     <string name="lb_OfApp">of the application</string>
     <string name="lb_Open">Open</string>
     <string name="lb_Others">Others</string>
@@ -181,7 +181,7 @@
     <string name="lb_PDFNotExist">The PDF file does not exist</string>
     <string name="lb_PDFViewer">PDF Viewer</string>
     <string name="lb_Password">Password</string>
-    <string name="lb_ProblemToCreateSSH">There was a problem creating the file SSH</string>
+    <string name="lb_ProblemToCreateSSH">There was a problem creating the SSH file</string>
     <string name="lb_PublicURL">Public URL</string>
     <string name="lb_RememberAccount">Remember account</string>
     <string name="lb_RemoApp">Removing application server</string>
@@ -191,7 +191,7 @@
     <string name="lb_RestApp">Restoring application</string>
     <string name="lb_RestartApp">Restart application</string>
     <string name="lb_RestartAppDesc">Erases application data</string>
-    <string name="lb_RestartingApp">Restarting the server application</string>
+    <string name="lb_RestartingApp">Restarting the application server</string>
     <string name="lb_RestartingAppOS">Restarting application</string>
     <string name="lb_ReviewUs">Review us in PlayStore</string>
     <string name="lb_Save">SAVE</string>
@@ -213,7 +213,7 @@
     <string name="lb_StoppingApp">Stopping the application server</string>
     <string name="lb_SuccessZIP">The files have been compressed</string>
     <string name="lb_Suffix">Suffix</string>
-    <string name="lb_SupportDev">Do you find this application useful? Support it\'s development.</string>
+    <string name="lb_SupportDev">Do you find this application useful? Support its development.</string>
     <string name="lb_TheBestClient">The best client for OpenShift</string>
     <string name="lb_TheDomain">The domain</string>
     <string name="lb_TitleApps">Apps of </string>
@@ -238,9 +238,9 @@
     <string name="lb_WillBeDeletedFromApp">will be deleted from application</string>
     <string name="lb_WillBeDeletedFromDevice">will be removed from the device</string>
     <string name="lb_YouAreUsingLastVersion">You are running the last version</string>
-    <string name="lb_YouHaveMoreDomains">You may not have more than 1 domain.</string>
+    <string name="lb_YouHaveMoreDomains">You already have more than 1 domain</string>
     <string name="lb_ZIP">Add to ZIP</string>
-    <string name="lb_app_restart"> The application has restarted, check ...</string>
+    <string name="lb_app_restart">The application has restarted, check ...</string>
 
     <!-- strings for explorer -->
     <string name="advancedsettings">Advanced</string>
@@ -255,8 +255,8 @@
     <string name="copying">Copying</string>
     <string name="copysuccsess">Successfully copied.</string>
     <string name="create">Create</string>
-    <string name="created">" Created."</string>
-    <string name="createmsg">Set a period before the text to create hidden folder.</string>
+    <string name="created">" created."</string>
+    <string name="createmsg">Insert a dot in front of the text to create a hidden folder.</string>
     <string name="createnewfolder">Create new folder</string>
     <string name="defaultdir">Default directory</string>
     <string name="delete">Delete</string>
@@ -281,7 +281,7 @@
     <string name="files">" Files"</string>
     <string name="filewasrenamed">File was renamed.</string>
     <string name="hiddenfiles">Hidden files</string>
-    <string name="itcouldntbefound">It couldnt be found.</string>
+    <string name="itcouldntbefound">It couldn\'t be found.</string>
     <string name="LastModified">Last modified:</string>
     <string name="md5">MD5:</string>
     <string name="move">Move</string>

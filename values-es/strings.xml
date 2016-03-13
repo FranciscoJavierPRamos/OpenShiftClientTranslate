@@ -3,7 +3,7 @@
     <string name="app_name">OpenShift</string>
     <string name="changelog_full_title">Registro de cambios</string>
     <string name="changelog_ok_button">OK</string>
-    <string name="changelog_show_full">Mas…</string>
+    <string name="changelog_show_full">Mas...</string>
     <string name="changelog_title">¿Qué hay de nuevo?</string>
     <string name="gen_pdf_file">Generando PDF</string>
     <string name="gen_please_wait">Por favor, espere...</string>
@@ -70,7 +70,7 @@
     <string name="lb_Created"> creado</string>
     <string name="lb_CreatingApp">Creando aplicación...</string>
     <string name="lb_CreatingDoamain">Creando dominio...</string>
-    <string name="lb_CreatingFile">Creando archivo</string>
+    <string name="lb_CreatingFile">Creando archivo...</string>
     <string name="lb_DataNotAva">Dato no disponible</string>
     <string name="lb_Delete">Eliminar</string>
     <string name="lb_DeleteAliasMsj">se eliminará de la aplicación</string>
@@ -104,7 +104,7 @@
     <string name="lb_ErrorToCreatePDF">Error al crear el documento PDF</string>
     <string name="lb_ErrorToCreateShortcut">Error al crear el acceso directo</string>
     <string name="lb_ErrorToDeleteAliases">Error al eliminar el alias, compruebe su existencia</string>
-    <string name="lb_ErrorToDeleteApp">Error al reiniciar la aplicación</string>
+    <string name="lb_ErrorToDeleteApp">Error al eliminar la aplicación</string>
     <string name="lb_ErrorToGetVar">Error al obtener las variables de entorno</string>
     <string name="lb_ErrorToLoadData">Error al cargar los datos</string>
     <string name="lb_ErrorToRestartApp">Error al reiniciar la aplicación</string>
