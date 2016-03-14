@@ -2,4 +2,5 @@
 OpenShiftClientTranslate Repository
 
 <b>Credits</b>
-Ragazzo Giapponese
+</br>
+Ragazzo Giapponese -> English and Italian languages
