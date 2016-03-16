@@ -365,4 +365,11 @@
     <!-- file picker -->
     <string name="picker_choose_one_file">Choose a file</string>
     <string name="picker_choose_multiple_files">Choose files</string>
+
+    <!-- material stepper -->
+    <string name="ms_optional">Optional</string>
+    <string name="ms_prev">Back</string>
+    <string name="ms_next">Next</string>
+    <string name="ms_end">Done</string>
+    <string name="ms_continue">Continue</string>
 </resources>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">OpenShift</string>
+    <string name="public_key_license" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxFhDlxb3V59bM4Lu6mOQu63aWs6USYmJ/WFPVIVLy5a60nveteauCDihI0Z4+yJ+aXKPtjw/Q26wfg4Tio4vfSGMzp+babfFCKaro8aEJ/7LjiduBVCLjOf10BcZhyjlZnTy9MGzdyHPChthRl0J+/VD6EsXtVInR/19eZFPtIWMkq5mWo9oFWHTGOEAjsSL48Hv74uenV/24lOPx2glgOlqzoSj9783A9k7o8XtvUG7WuaQbLFBtjaq7iaDg5vaiu0qzGbt7qPgUQ9Bnk84+hlaeaWTDK/vNZ6zQ4dgPYAbHfgxXqPbvHTy94zIjtEX8+RSJCFX/nS4dORe0vl2hQIDAQAB</string>
+
     <string name="changelog_full_title">Registro de cambios</string>
     <string name="changelog_ok_button">OK</string>
     <string name="changelog_show_full">Mas...</string>
@@ -365,4 +367,11 @@
     <!-- file picker -->
     <string name="picker_choose_one_file">Seleccione un archivo</string>
     <string name="picker_choose_multiple_files">Elegir archivos</string>
+
+    <!-- material stepper -->
+    <string name="ms_optional">Opcional</string>
+    <string name="ms_prev">Atrás</string>
+    <string name="ms_next">Siguiente</string>
+    <string name="ms_end">Finalizar</string>
+    <string name="ms_continue">Continuar</string>
 </resources>
