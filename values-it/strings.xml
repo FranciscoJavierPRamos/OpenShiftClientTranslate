@@ -366,5 +366,10 @@
     <string name="picker_choose_one_file">Selezionare un file</string>
     <string name="picker_choose_multiple_files">Selezionare i file</string>
 
-
+    <!-- material stepper -->
+    <string name="ms_optional">Opzionale</string>
+    <string name="ms_prev">Indietro</string>
+    <string name="ms_next">Avanti</string>
+    <string name="ms_end">Fatto</string>
+    <string name="ms_continue">Continua</string>
 </resources>

@@ -10,7 +10,7 @@
     <string name="last_update_test_preferences">Last Update Check</string>
     <string name="text_from_playstore">Please buy the application from PlayStore. Thank you.</string>
 
-    <string name="lbWarning">¡Warning!</string>
+    <string name="lbWarning">Warning!</string>
     <string name="lb_Accept">Accept</string>
     <string name="lb_AccessDen">Access denied</string>
     <string name="lb_Account">Account</string>
